@@ -1,0 +1,125 @@
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe.config
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe.config
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.g.cs
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\App.g.cs
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.baml
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.g.resources
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.exe
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe.config
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe.config
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\App.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.g.resources
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe.config
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe.config
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\App.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.lref
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.g.resources
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.Properties.Resources.resources
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe.config
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe.config
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\App.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.lref
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.g.resources
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.Properties.Resources.resources
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe.config
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\UI.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\BE.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\BL.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\DAL.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\bin\Debug\DS.exe.config
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\App.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI_MarkupCompile.lref
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\MainWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.g.resources
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.csproj.CopyComplete
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\UI\obj\Debug\UI.pdb

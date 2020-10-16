@@ -1,0 +1,88 @@
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\helimele\Downloads\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\hoday\Desktop\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\hoday\Desktop\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Desktop\BL\obj\Debug\BL.dll
+C:\Users\hoday\Desktop\BL\obj\Debug\BL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+E:\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+E:\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+E:\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb

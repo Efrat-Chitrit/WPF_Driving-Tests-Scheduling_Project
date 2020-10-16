@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="PLWPF.TesterHours"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="550">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+          
+        </Grid.RowDefinitions>
+        <Label Content="Working Hours:" Background="White" Grid.Row="0" HorizontalContentAlignment="Center" Foreground="#FF364F73" FontFamily="Abraham" FontSize="20" FontWeight="Bold" Margin="0,10,10,10" />
+        <Grid Grid.Row="1" Grid.ColumnSpan="2" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="9:00-10:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="1"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="10:00-11:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="2"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="11:00-12:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="3"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="12:00-13:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="4"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="13:00-14:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="5"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="14:00-15:00" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="6"   VerticalAlignment="Top"  FontFamily="Abraham" />
+
+            <Label Content="Sunday" Background="White" FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="0"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="Monday" Background="White"  FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="2" Grid.Column="0"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="Tuesday"  Background="White"  FontWeight="Bold"  HorizontalAlignment="Center" Grid.Row="3" Grid.Column="0"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="Wednesday"  Background="White"  FontWeight="Bold" HorizontalAlignment="Center" Grid.Row="4" Grid.Column="0"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <Label Content="Thursday" Background="White" FontWeight="Bold"  HorizontalAlignment="Center" Grid.Row="5" Grid.Column="0"   VerticalAlignment="Top"  FontFamily="Abraham" />
+            <CheckBox Name="aa" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="ab" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="ac" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="ad" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="ae" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="af" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"   />
+            <CheckBox Name="ba" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="bb" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="bc" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="bd" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="be" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="bf" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"   />
+            <CheckBox Name="ca" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="cb" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="cc" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="cd" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="ce" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="cf" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3"   />
+            <CheckBox Name="da" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="db" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="dc" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="dd" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="de" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="df" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"   />
+            <CheckBox Name="ea" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+            <CheckBox Name="eb" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+            <CheckBox Name="ec" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+            <CheckBox Name="ed" Grid.Column="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+            <CheckBox Name="ee" Grid.Column="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+            <CheckBox Name="ef" Grid.Column="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5"   />
+        </Grid>
+
+    </Grid>
+</UserControl>

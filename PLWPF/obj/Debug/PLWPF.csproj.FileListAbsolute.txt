@@ -1,0 +1,474 @@
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+E:\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+E:\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+E:\אבישג פרויקט\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.baml
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.g.cs
+C:\Users\hoday\Desktop\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.xml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+E:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.xml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+F:\מיני פרוייקט במערכת חלונות\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.dll
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BE.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\BL.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\LiveCharts.Wpf.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\Newtonsoft.Json.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Net.Http.Formatting.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\System.Web.Http.WebHost.xml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.pdb
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\bin\Debug\DS.exe.config
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\App.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTester.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTestWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AddTrainee.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\AllTestsInThisDateWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTester.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTestWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeleteTrainee.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\DeserveDriversLicenceWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\GroupingWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PL_WpfApp.Distance.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\QueryWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTesterWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTestWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\SearchTraineeWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\StatisticsWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterHours.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestsByConditionWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeNumOfTestsWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeUpdate.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+E:\Efrat git projects\Project01_7247_5287_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb

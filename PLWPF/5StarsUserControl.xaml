@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="PLWPF._5StarsUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" Width="2317.157" MouseLeave="UserControl_MouseLeave">
+    <Grid Background="White" Margin="-27,0,-36,0">
+        <StackPanel Orientation="Horizontal" Margin="0,0,10,0">
+            <Viewbox Width="auto">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="s1" Fill="#FFFFFFFF" StrokeThickness="5.56899977" Stroke="#FFFFCC00" StrokeMiterLimit="4" StrokeLineJoin="Round" Data= "m 123.70383 131.36382 -28.014042 -14.07476 -27.47604 15.0981 4.729074 -30.99228 -22.849715 -21.465693 30.936774 -5.079524 13.35414 -28.364636 14.390899 27.852962 31.10303 3.935387 -22.04271 22.293604 z" Stretch="Fill" MouseEnter="S1_MouseEnter" MouseLeave="S1_MouseLeave" MouseLeftButtonDown="S1_MouseLeftButtonDown" Cursor="Hand" />
+            </Viewbox>
+
+            <Viewbox Width="auto">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="s2" Fill="#FFFFFFFF" StrokeThickness="5.56899977" Stroke="#FFFFCC00" StrokeMiterLimit="4" StrokeLineJoin="Round" Data= "m 123.70383 131.36382 -28.014042 -14.07476 -27.47604 15.0981 4.729074 -30.99228 -22.849715 -21.465693 30.936774 -5.079524 13.35414 -28.364636 14.390899 27.852962 31.10303 3.935387 -22.04271 22.293604 z" Stretch="Fill" MouseEnter="S2_MouseEnter" MouseLeave="S2_MouseLeave" MouseLeftButtonDown="S2_MouseLeftButtonDown" Cursor="Hand" />
+            </Viewbox>
+
+            <Viewbox Width="auto">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="s3" Fill="#FFFFFFFF" StrokeThickness="5.56899977" Stroke="#FFFFCC00" StrokeMiterLimit="4" StrokeLineJoin="Round" Data= "m 123.70383 131.36382 -28.014042 -14.07476 -27.47604 15.0981 4.729074 -30.99228 -22.849715 -21.465693 30.936774 -5.079524 13.35414 -28.364636 14.390899 27.852962 31.10303 3.935387 -22.04271 22.293604 z" Stretch="Fill" MouseEnter="S3_MouseEnter" MouseLeave="S3_MouseLeave" MouseLeftButtonDown="S3_MouseLeftButtonDown" Cursor="Hand" />
+            </Viewbox>
+
+            <Viewbox Width="auto">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="s4" Fill="#FFFFFFFF" StrokeThickness="5.56899977" Stroke="#FFFFCC00" StrokeMiterLimit="4" StrokeLineJoin="Round" Data= "m 123.70383 131.36382 -28.014042 -14.07476 -27.47604 15.0981 4.729074 -30.99228 -22.849715 -21.465693 30.936774 -5.079524 13.35414 -28.364636 14.390899 27.852962 31.10303 3.935387 -22.04271 22.293604 z" Stretch="Fill" MouseEnter="S4_MouseEnter" MouseLeave="S4_MouseLeave" MouseLeftButtonDown="S4_MouseLeftButtonDown" Cursor="Hand" />
+            </Viewbox>
+
+            <Viewbox Width="auto">
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="s5" Fill="#FFFFFFFF" StrokeThickness="5.56899977" Stroke="#FFFFCC00" StrokeMiterLimit="4" StrokeLineJoin="Round" Data= "m 123.70383 131.36382 -28.014042 -14.07476 -27.47604 15.0981 4.729074 -30.99228 -22.849715 -21.465693 30.936774 -5.079524 13.35414 -28.364636 14.390899 27.852962 31.10303 3.935387 -22.04271 22.293604 z" Stretch="Fill" MouseEnter="S5_MouseEnter" MouseLeave="S5_MouseLeave" MouseLeftButtonDown="S5_MouseLeftButtonDown" Cursor="Hand" />
+            </Viewbox>
+
+
+        </StackPanel>
+
+
+
+    </Grid>
+</UserControl>

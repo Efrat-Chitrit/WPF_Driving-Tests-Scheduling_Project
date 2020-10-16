@@ -1,0 +1,14 @@
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\bin\Debug\DS.exe.config
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\hoday\source\repos\Project01_7247_5287_dotNet5779\BL\obj\Debug\BL.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Testers>
+  <Tester>
+    <TesterId>123456789</TesterId>
+    <TesterName>avi</TesterName>
+    <TesterLast>kuku</TesterLast>
+    <TesterGender>male</TesterGender>
+    <TesterBirthDate>04/01/1970 00:00:00</TesterBirthDate>
+    <TesterPhone />
+    <TesterWorkHours>True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True</TesterWorkHours>
+    <TesterAddress>
+      <Street>kishon</Street>
+      <NumOfBuilding>9</NumOfBuilding>
+      <City>afula</City>
+    </TesterAddress>
+    <TesterProfession>heavyTrack</TesterProfession>
+    <TesterSeniority>10</TesterSeniority>
+    <TesterMaxTests>6</TesterMaxTests>
+    <TesterMaxDistance>100</TesterMaxDistance>
+  </Tester>
+</Testers>

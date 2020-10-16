@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <Test>
+    <NumOfTest>10000003</NumOfTest>
+    <TesterId>666555444</TesterId>
+    <TraineeId>098765432</TraineeId>
+    <TOfCar>heavyTrack</TOfCar>
+    <Datetime>27/01/2019 00:00:00</Datetime>
+    <Hour>12</Hour>
+    <SourceAddress>
+      <Street></Street>
+      <NumOfBuilding>0</NumOfBuilding>
+      <City></City>
+    </SourceAddress>
+    <Grade>false</Grade>
+    <Note />
+    <KeepingDistance>false</KeepingDistance>
+    <Mirror>false</Mirror>
+    <Vinkers>false</Vinkers>
+    <PathTransition>false</PathTransition>
+    <ProperSpeed>false</ProperSpeed>
+    <ReverseParking>false</ReverseParking>
+  </Test>
+</Tests>

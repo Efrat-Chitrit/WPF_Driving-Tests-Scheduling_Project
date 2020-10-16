@@ -1,0 +1,32 @@
+﻿<Window x:Class="PLWPF.QueryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="QueryWindow" Height="600" Width="1000">
+    <Grid>
+        <Grid ShowGridLines="True" >
+            <Label x:Name="querysXml" Content="Querys" FontSize="80" FontStyle="Italic" Foreground="DarkRed" FontWeight="Bold" HorizontalAlignment="Center"  VerticalAlignment="Center" Margin="14,4,133,6" Width="448" Height="132"/>
+        </Grid>
+        <Button x:Name="TraineesNumOftestsXml" BorderBrush="DarkGray" Content="Trainee's Num Of tests" FontSize="17" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Margin="99,164,98,213" Click="TraineeNumOfTests_Click" />
+        <Button x:Name="DeserveDriversLicenceXml"  BorderBrush="DarkGray" Content="Deserve Drivers Licence" FontSize="18" Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Margin="99,241,98,136" Click="DeserveDriversLicence_Click" Grid.Column="1"/>
+        <Button x:Name="AllTestsInThisDateXml"  BorderBrush="DarkGray" Content="All Tests In This Date" FontSize="20" Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Margin="99,327,98,50" Click="AllTestsInThisDate_Click" Grid.Column="1"/>
+        <Button x:Name="TestsByConditionXml" BorderBrush="DarkGray" Content="Tests by Condition" FontSize="17" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Margin="99,89,98,288" Click="TestsByConditionXml_Click"  />
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="75*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/תמונה רכב אדום לפרויקט.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+
+    </Grid>
+</Window>

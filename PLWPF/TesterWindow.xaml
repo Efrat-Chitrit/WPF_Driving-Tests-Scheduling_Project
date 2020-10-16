@@ -1,0 +1,32 @@
+﻿<Window x:Class="PLWPF.TesterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="TesterWindow" Height="475" Width="800">
+    <Grid>
+        <Label x:Name="tester" Content="Tester" FontSize="70" FontStyle="Italic" Foreground="DarkRed" FontWeight="Bold" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+
+        <Button x:Name="TesterAddButton" Content="Add Tester" FontSize="25" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TesterAddButton_Click"  />
+        <Button x:Name="TesterDeleteButton" Content="Delete Tester" FontSize="25"  Grid.Column="1"  Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TesterDeleteButton_Click" />
+        <Button x:Name="TesterUpdateButton" Content="Update Tester" FontSize="25" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TesterUpdateButton_Click" />
+        <Button x:Name="TesterSearchButton" Content="Search Tester" FontSize="25" Grid.Column="1"  Grid.Row="3" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TesterSearchButton_Click" Margin="59,25,58,36"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/תמונה רכב אדום לפרויקט.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+    </Grid>
+</Window>

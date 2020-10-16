@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trainees>
+  <Trainee>
+    <TraineeId>123123123</TraineeId>
+    <TraineeName>Simba</TraineeName>
+    <TraineeLast>lionKing</TraineeLast>
+    <TraineeGender>male</TraineeGender>
+    <TraineeBirthDate>05/12/1983 00:00:00</TraineeBirthDate>
+    <TraineeGrade>False</TraineeGrade>
+    <TraineePhone>1256987456</TraineePhone>
+    <TraineeAddress>
+      <Street>kishon</Street>
+      <NumOfBuilding>9</NumOfBuilding>
+      <City>afula</City>
+    </TraineeAddress>
+    <TraineeVehicle>privateCar</TraineeVehicle>
+    <TraineeGear>automatic</TraineeGear>
+    <TraineeSchool>HacunaMatata</TraineeSchool>
+    <TraineeTeacher>Pumba</TraineeTeacher>
+    <TraineeLessons>28</TraineeLessons>
+    <TraineeTest>
+      <GetDate>01/01/0001 00:00:00</GetDate>
+      <GetHour>0</GetHour>
+    </TraineeTest>
+    <TraineeAmountOfTests>2</TraineeAmountOfTests>
+  </Trainee>
+  <Trainee>
+    <TraineeId>098765432</TraineeId>
+    <TraineeName>Harry</TraineeName>
+    <TraineeLast>Potter</TraineeLast>
+    <TraineeGender>male</TraineeGender>
+    <TraineeBirthDate>13/03/1999 00:00:00</TraineeBirthDate>
+    <TraineeGrade>False</TraineeGrade>
+    <TraineePhone>0585807116</TraineePhone>
+    <TraineeAddress>
+      <Street>grifindor</Street>
+      <NumOfBuilding>5</NumOfBuilding>
+      <City>hogworts</City>
+    </TraineeAddress>
+    <TraineeVehicle>heavyTrack</TraineeVehicle>
+    <TraineeGear>manual</TraineeGear>
+    <TraineeSchool>Hogworts</TraineeSchool>
+    <TraineeTeacher>Mcgonagel</TraineeTeacher>
+    <TraineeLessons>28</TraineeLessons>
+    <TraineeTest>
+      <GetDate>01/01/0001 00:00:00</GetDate>
+      <GetHour>0</GetHour>
+    </TraineeTest>
+    <TraineeAmountOfTests>3</TraineeAmountOfTests>
+  </Trainee>
+  <Trainee>
+    <TraineeId>111222333</TraineeId>
+    <TraineeName>Snow</TraineeName>
+    <TraineeLast>White</TraineeLast>
+    <TraineeGender>female</TraineeGender>
+    <TraineeBirthDate>09/11/1997 00:00:00</TraineeBirthDate>
+    <TraineeGrade>False</TraineeGrade>
+    <TraineePhone>0545866449</TraineePhone>
+    <TraineeAddress>
+      <Street>Enchanted</Street>
+      <NumOfBuilding>20</NumOfBuilding>
+      <City>Forest</City>
+    </TraineeAddress>
+    <TraineeVehicle>heavyTrack</TraineeVehicle>
+    <TraineeGear>automatic</TraineeGear>
+    <TraineeSchool>Princess</TraineeSchool>
+    <TraineeTeacher>Dwarf</TraineeTeacher>
+    <TraineeLessons>50</TraineeLessons>
+    <TraineeTest>
+      <GetDate>01/01/0001 00:00:00</GetDate>
+      <GetHour>0</GetHour>
+    </TraineeTest>
+    <TraineeAmountOfTests>1</TraineeAmountOfTests>
+  </Trainee>
+  <Trainee>
+    <TraineeId>999666333</TraineeId>
+    <TraineeName>jhgiyk</TraineeName>
+    <TraineeLast>kgk</TraineeLast>
+    <TraineeGender>male</TraineeGender>
+    <TraineeBirthDate>01/01/2000 00:00:00</TraineeBirthDate>
+    <TraineeGrade>False</TraineeGrade>
+    <TraineePhone />
+    <TraineeAddress>
+      <Street></Street>
+      <NumOfBuilding>0</NumOfBuilding>
+      <City></City>
+    </TraineeAddress>
+    <TraineeVehicle>privateCar</TraineeVehicle>
+    <TraineeGear>automatic</TraineeGear>
+    <TraineeSchool />
+    <TraineeTeacher />
+    <TraineeLessons>0</TraineeLessons>
+    <TraineeTest>
+      <GetDate>01/01/0001 00:00:00</GetDate>
+      <GetHour>0</GetHour>
+    </TraineeTest>
+    <TraineeAmountOfTests>0</TraineeAmountOfTests>
+  </Trainee>
+  <Trainee>
+    <TraineeId>888555222</TraineeId>
+    <TraineeName>lo yada</TraineeName>
+    <TraineeLast>rahamim</TraineeLast>
+    <TraineeGender>male</TraineeGender>
+    <TraineeBirthDate>01/01/2000 00:00:00</TraineeBirthDate>
+    <TraineeGrade>False</TraineeGrade>
+    <TraineePhone />
+    <TraineeAddress>
+      <Street></Street>
+      <NumOfBuilding>0</NumOfBuilding>
+      <City></City>
+    </TraineeAddress>
+    <TraineeVehicle>privateCar</TraineeVehicle>
+    <TraineeGear>automatic</TraineeGear>
+    <TraineeSchool />
+    <TraineeTeacher />
+    <TraineeLessons>0</TraineeLessons>
+    <TraineeTest>
+      <GetDate>01/01/0001 00:00:00</GetDate>
+      <GetHour>0</GetHour>
+    </TraineeTest>
+    <TraineeAmountOfTests>0</TraineeAmountOfTests>
+  </Trainee>
+</Trainees>

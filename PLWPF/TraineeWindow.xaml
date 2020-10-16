@@ -1,0 +1,33 @@
+﻿<Window x:Class="PLWPF.TraineeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Trainee Window" Height="450" Width="800">
+    <Grid>
+        <Grid ShowGridLines="True" >
+            <Label x:Name="trainee" Content="Trainee" FontSize="70" FontStyle="Italic" Foreground="DarkRed" FontWeight="Bold" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+        </Grid>
+        <Button x:Name="TraineeAddButton" Content="Add Trainee" FontSize="25" Grid.Column="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TraineeAddButton_Click" />
+        <Button x:Name="TraineeDeleteButton" Content="Delete Trainee" FontSize="25"  Grid.Column="1"  Grid.Row="1" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TraineeDeleteButton_Click" />
+        <Button x:Name="TraineeUpdateButton" Content="Update Trainee" FontSize="25" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TraineeUpdateButton_Click" />
+        <Button x:Name="TraineeSearchButton" Content="Search Trainee" FontSize="25" Grid.Column="1"  Grid.Row="3" HorizontalAlignment="Center"  VerticalAlignment="Center" Width="200" Height="50" Click="TraineeSearchButton_Click"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/תמונה רכב אדום לפרויקט.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+    </Grid>
+</Window>

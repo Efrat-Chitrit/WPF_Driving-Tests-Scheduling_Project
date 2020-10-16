@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.AddTestWindow"
+        mc:Ignorable="d"
+        Title="AddTestWindow" Height="600" Width="1000" >
+
+    <Grid Margin="-4,2,4,-2" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="25*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/תמונה רכב אדום לפרויקט.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Grid ShowGridLines="True" Margin="-12,0,12,0" >
+            <Label x:Name="AddTestXml" Content="Add a new Test" FontSize="45" FontStyle="Italic" Foreground="DarkRed" FontWeight="Bold" HorizontalAlignment="Center"  VerticalAlignment="Center" Margin="29,20,10,10" Width="436" Height="81"/>
+
+        </Grid>
+        <Button x:Name="submitBtn" Content="submit"  Background="White" FontWeight="Bold" FontSize="26" HorizontalAlignment="Center"  Grid.Row="2" VerticalAlignment="Center" Width="148" Click="SubmitBtn_Click" Height="46" Margin="212,48,235,49"/>
+        <Grid x:Name="AddTest" Grid.Column="1" HorizontalAlignment="Left" Margin="52,54,0,0" VerticalAlignment="Top" Height="290" Grid.RowSpan="2" Width="279">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Datetime:" Background="White" FontWeight="Bold" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <DatePicker x:Name="datetimeDatePicker" Background="White" FontWeight="Bold"  Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="0" SelectedDate="{Binding Datetime, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>
+            <Label Content="Hour:" Grid.Column="0" Background="White" FontWeight="Bold"  HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <TextBox x:Name="hourTextBox" Background="White" FontWeight="Bold"  Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" Text="{Binding Hour, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" PreviewTextInput="HourTextBox_previewtextinput"/>
+            <Label Content="Type Of Car:" Background="White" FontWeight="Bold"  Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="6" VerticalAlignment="Center"/>
+            <ComboBox x:Name="tOfCarComboBox" Background="White" FontWeight="Bold"  Grid.Column="1"  HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding TOfCar}" Margin="3" Grid.Row="6" VerticalAlignment="Center" Width="120">
+
+            </ComboBox>
+            <Label Content="Trainee Id:" Background="White" FontWeight="Bold"  Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="7" VerticalAlignment="Center"/>
+            <TextBox x:Name="traineeIdTextBox" Background="White" FontWeight="Bold"  Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="7" Text="{Binding TraineeId, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" PreviewTextInput="TraineeIdTextBox_previewtextinput"/>
+            <Label Content="City:" Grid.Column="0" Background="White" FontWeight="Bold"  HorizontalAlignment="Left" Margin="3" Grid.Row="8" VerticalAlignment="Center"/>
+            <TextBox x:Name="cityTextBox" Grid.Column="1" Background="White" FontWeight="Bold"  HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="8" Text="{Binding SourceAddress.City, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" PreviewTextInput="CityTextBox_previewtextinput" />
+            <Label Content="Num Of Building:" Background="White" FontWeight="Bold"  Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="9" VerticalAlignment="Center"/>
+            <TextBox x:Name="numOfBuildingTextBox" Background="White" FontWeight="Bold"  Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="9" Text="{Binding SourceAddress.NumOfBuilding, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" PreviewTextInput="NumOfBuildingTextBox_previewtextinput"/>
+            <Label Content="Street:" Grid.Column="0" Background="White" FontWeight="Bold"  HorizontalAlignment="Left" Margin="3" Grid.Row="10" VerticalAlignment="Center"/>
+            <TextBox x:Name="streetTextBox" Grid.Column="1" Background="White" FontWeight="Bold"  HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="10" Text="{Binding SourceAddress.Street, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" PreviewTextInput="StreetTextBox_previewtextinput"/>
+        </Grid>
+    </Grid>
+</Window>
